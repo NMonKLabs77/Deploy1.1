@@ -10,7 +10,7 @@
  <img width="100" alt="jk" src="https://github.com/NMonKLabs77/Deploy1.1/assets/139259756/acc1261e-8878-416e-ab9d-20747cebfd3b"><br>
   <li>Created My EC2 and AWS ElasticBeanstalk</li>
     <img width="100" alt="aws" src="https://github.com/NMonKLabs77/Deploy1.1/assets/139259756/0fa16d25-df4e-40f1-b96a-380d704e0ae8"><br>
-  <p>Upon submitting my elastic beanstalk environment, the health response was <em>Degraded</em></p><br>
+  <p>Upon submitting my elastic beanstalk environment, the health response was <em>Degraded</em></p>
   <h2>How I fixed the issue</h2>
   <ul>
     <li>I navigated to the elastic beanstalk logs to find out what the issue may be</li>
