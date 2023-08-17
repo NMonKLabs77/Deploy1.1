@@ -1,6 +1,6 @@
 <h1>Deploying a URL Shortener</h1>
 
-<h2>How I went about deplying my application</h2>
+<h2>How I went about deploying my application</h2>
 
 <ol>
   <li>Downloaded the files from Kura and uploaded to a new repository which I named Deploy01</li>
